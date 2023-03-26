@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Beverage Locator
-Plugin URI: https://github.com/quiteliderally/
+Plugin URI: https://github.com/quiteliderally/vtinfo-beverage-locator
 Description: A plugin to connect to the vtinfo api and locate products
 Version: 0.1
 Author: Tim Ariyeh
